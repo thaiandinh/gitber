@@ -11,17 +11,17 @@ Grunt.js
 
 ####Test instructions#####
 
-1. Fork the repository to your github account
 
-2. Change the Ember JS functions to use Angular JS 1.5 or Angular JS 2.0
 
-3. Replicate the functionality that is included in this build eg. Github API connection, company searching, user details and repository specific details.
+1. Change the Ember JS functions to use Angular JS 1.5 or Angular JS 2.0
 
-4. Ensure clear commenting on your code to explain your reasoning
+2. Replicate the functionality that is included in this build eg. Github API connection, company searching, user details and repository specific details.
 
-5. Commit the code to your github account
+3. Ensure clear commenting on your code to explain your reasoning
 
-6. Create a pull request to this repository once complete.
+4. Commit the code to your github account
 
-7. Email dean@converzion.co when completed
+5. Create a pull request to this repository once complete.
+
+
 
