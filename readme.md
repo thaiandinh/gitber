@@ -9,7 +9,7 @@ SCSS
 Bootstrap
 Grunt.js
 
-####Test instructions#####
+####Instructions#####
 
 
 
